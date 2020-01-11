@@ -20,4 +20,4 @@ eureka:
       default-zone: http://127.0.0.1:8761/eureka/
   instance:
     prefer-ip-address: true
-id: 7263
+id: threeoneone
